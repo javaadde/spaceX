@@ -166,7 +166,7 @@ section{
 
 
 #shop-text{
-   position: fixed;
+   position: absolute;
     margin-left: 1300px;
 }
 
