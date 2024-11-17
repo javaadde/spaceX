@@ -108,6 +108,7 @@ section{
    width: 76%;
    margin-left: 24%;
    padding-top: 2%;
+   position: relative;
 }
 
 .nav-item{
